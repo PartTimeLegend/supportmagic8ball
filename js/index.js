@@ -6,7 +6,10 @@ var words = [
 'Blame vendor',
 'Blame Tibor',
 'Raise another ticket',
-'I don\'t have access'
+'I don\'t have access'.
+'Reboot It',
+'Ship anyway',
+'Monitor going forward'
     ];
 
     var getRandomWord = function () {
